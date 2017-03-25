@@ -25,7 +25,9 @@ SECRET_KEY = 'k8#_pr@y0e62d9_oi*d^^atvi2is%=l)llf0hot2b!xrfmlvh='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'buzmavisi.pythonanywhere.com',
+]
 
 
 # Application definition
